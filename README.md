@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Andreuferri
 - 👀 I’m interested in PHP,Databases and all kinds of Operating Systems
-- 🌱 I’m currently learning ZPL, PHP, Laravel and Active Directory
-- 💞️ I’m looking to collaborate on Grupo Antolin 
+- 🌱 I’m currently learning ZPL, PHP, Laravel and Active Directory 
 - 📫 How to reach me andreuestacio@gmail.com
 
 <!---
